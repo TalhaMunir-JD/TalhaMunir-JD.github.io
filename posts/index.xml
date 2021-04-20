@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 23:19:25 +0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/posts/about/</link>
+      <pubDate>Tue, 20 Apr 2021 23:19:25 +0500</pubDate>
+      
+      <guid>http://example.org/posts/about/</guid>
+      <description>TALHA MUNIR  EDUCATION: The Educators 2015 – 2017. Matriculation 992/1100 (A+).
+Punjab College D-9 campus 2017 – 2019. Intermediate 994/1100 (A+).
+School of electrical engineering and computer science 2019 – present. Bachelor of Science in Computer Science. CGPA 3.24/4.00.
+ PROJECTS 2020 Designed a game in java using object-oriented programming. 2021 Made a dictionary in C++ using different data structures. 2021 Implemented IMDB database set in C++ through data structures.</description>
+    </item>
+    
+    <item>
+      <title>Task2</title>
+      <link>http://example.org/posts/task2/</link>
+      <pubDate>Tue, 20 Apr 2021 23:16:42 +0500</pubDate>
+      
+      <guid>http://example.org/posts/task2/</guid>
+      <description>Task2 was to make seecs logo as an output through Ascii characters. This was done by printing the ascii characters through print_str function.</description>
+    </item>
+    
+    <item>
+      <title>Task1</title>
+      <link>http://example.org/posts/task1/</link>
+      <pubDate>Tue, 20 Apr 2021 23:15:04 +0500</pubDate>
+      
+      <guid>http://example.org/posts/task1/</guid>
+      <description>Systems used:  Docker Visual Studio Code QEMU     We started by creating a build environment using docker which had the access to all the tools we needed. The image was built by runnning the following command in the command prompt: docker build buildenv -t myos-buildenv
+  After the image was built, we started to work on different files.
+  The header.asm file contained all the data that was to be included in operating system binary.</description>
+    </item>
+    
+  </channel>
+</rss>
